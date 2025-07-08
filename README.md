@@ -18,10 +18,18 @@ Essa visão geográfica permite ações mais estratégicas, como redistribuiçã
 Objetivo:
 Analisar o desempenho e os padrões de abastecimento dos veículos da frota.
 
+O painel permite identificar os funcionários mais gastões por semana, inclusive segmentando por tipo de combustível. Além disso, conta com um mapa interativo que mostra os abastecimentos por cidade, um ranking das cidades com menor valor médio por litro, facilitando a localização de abastecimentos mais vantajosos, gráficos por motorista que exibem frequência semanal, variação de custo e consumo médio (km/l), e uma tabela dinâmica detalhada para rastrear informações como placa, valor, tipo de combustível, obra e estabelecimento.
+
 ![Dashboard de Combustivel](comb_dash2.png)
 
 ## 🧍‍♂️ 3. Dashboard de Funcionários
 Objetivo:
 Identificar comportamentos de consumo por motorista, analisar frequência de abastecimentos e possíveis desvios.
+
+O interessante desse painel é a possibilidade de identificar os funcionários mais gastões por semana, além de segmentar os dados por tipo de combustível utilizado, permitindo análises mais específicas e direcionadas.
+
+Outro destaque importante é o mapa interativo, que mostra onde os abastecimentos estão ocorrendo, e o ranking de cidades com menor valor por litro, o que ajuda a identificar oportunidades de economia e padrões regionais de preço.
+
+Também é possível acompanhar a frequência semanal de abastecimentos por motorista (de segunda a domingo), a média de km por litro abastecido, e observar variações no comportamento entre obras ou regiões. Com essas informações, o painel ajuda a promover uma gestão mais eficiente e estratégica da frota, com foco em redução de custos e melhoria no uso dos recursos.
 
 ![Dashboard de Combustivel](comb_dash3.png)
