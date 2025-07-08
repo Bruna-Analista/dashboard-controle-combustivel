@@ -33,3 +33,15 @@ Outro destaque importante é o mapa interativo, que mostra onde os abastecimento
 Também é possível acompanhar a frequência semanal de abastecimentos por motorista (de segunda a domingo), a média de km por litro abastecido, e observar variações no comportamento entre obras ou regiões. Com essas informações, o painel ajuda a promover uma gestão mais eficiente e estratégica da frota, com foco em redução de custos e melhoria no uso dos recursos.
 
 ![Dashboard de Combustivel](comb_dash3.png)
+
+🚀 **Click abaixo e veja meu Dashboard publicado**:  
+
+[![Abrir no Power BI](https://img.shields.io/badge/Abrir%20no%20Power%20BI-%2300AC47?logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiY2I3NGYyZmMtYzU2Yi00MjJlLTlmYTAtYzI5YTllZjM4ZTg3IiwidCI6ImQ1ZTYxZGFhLTZjOGUtNDUzMy1hZmUzLWRhYWE4MjBiY2Y1NSJ9)
+
+
+## 🔧 Ferramentas utilizadas
+
+- Power BI Desktop
+- Excel (como fonte de dados)
+- Transformações via Power Query
+
