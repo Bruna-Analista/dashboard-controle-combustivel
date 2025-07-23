@@ -46,6 +46,6 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 ---
 🚀 **Click abaixo e veja meu Dashboard publicado**:  
 
-[![Abrir no Power BI](https://img.shields.io/badge/Abrir%20no%20Power%20BI-%2300AC47?logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiY2I3NGYyZmMtYzU2Yi00MjJlLTlmYTAtYzI5YTllZjM4ZTg3IiwidCI6ImQ1ZTYxZGFhLTZjOGUtNDUzMy1hZmUzLWRhYWE4MjBiY2Y1NSJ9)
+[![Abrir no Power BI](https://img.shields.io/badge/Abrir%20no%20Power%20BI-%2300AC47?logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiM2U5MzE2M2MtMTZiMy00NTdhLWIzMzctZmJjMGY3MGYyMGE1IiwidCI6ImQ1ZTYxZGFhLTZjOGUtNDUzMy1hZmUzLWRhYWE4MjBiY2Y1NSJ9)
 
 
