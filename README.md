@@ -31,12 +31,12 @@ A estrutura do relatório atende a uma demanda real da empresa, permitindo anál
 ## 🖼️ Imagem dos dashboards
 
 
-![Dashboard de Combustivel](comb_dash1.png)
+![Dashboard de Combustivel](comb_1.png)
 
 
 
 
-![Dashboard de Combustivel](comb_dash2.png)
+![Dashboard de Combustivel](comb_2.png)
 
 
 
